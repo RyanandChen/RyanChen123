@@ -1,2 +1,3 @@
-a:hover {
-  background-color: orange;
+a.button:hover {
+    background-color: orange;
+}
