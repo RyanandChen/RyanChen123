@@ -1,3 +1,4 @@
-a.button:hover {
-    background-color: orange;
+/* mouse over link */
+a:hover {
+  color: hotpink;
 }
