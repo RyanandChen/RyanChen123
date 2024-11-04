@@ -1,6 +1,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-.a {
+a {
   background-color: #ddd;
   border: none;
   color: black;
@@ -11,6 +11,6 @@
   transition: 0.3s;
 }
 
-.a:hover {
+a:hover {
   background-color: #3e8e41;
   color: white;
