@@ -1,12 +1,12 @@
 body {
-   background-color: green;
+   background-color: blue;
    color: black;
 }
 
 a:hover {
   background-color: yellow;
    color: white;
-  font-size: 29px;
+  font-size: 18px;
 }
 
 
