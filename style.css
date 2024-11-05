@@ -1,8 +1,8 @@
 body {
-   background-color: lightblue;
+   background-color: blue;
 }
 
-a.hover {
+a:hover {
   background-color: yellow;
   font-size: 18px;
 }
