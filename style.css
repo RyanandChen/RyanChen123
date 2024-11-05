@@ -1,9 +1,11 @@
 body {
-   background-color: blue;
+   background-color: green;
+   color: black;
 }
 
 a:hover {
   background-color: yellow;
+   color: white;
   font-size: 29px;
 }
 
